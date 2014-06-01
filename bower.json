@@ -1,0 +1,11 @@
+{
+  "name": "qhull2d",
+  "version": "0.0.1",
+  "authors": [
+    "Petr Benes <xbenes@centrum.cz>"
+  ],
+  "dependencies": {
+    "expect": "~0.3.1",
+    "sinonjs": "~1.8.2"
+  }
+}
