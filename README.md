@@ -1,5 +1,7 @@
 # qhull2d
 
+[![Build Status](https://travis-ci.org/xbenes/qhull2d.svg?branch=master)](https://travis-ci.org/xbenes/qhull2d)
+
 QHull algorithm implementation in javascript. Two-dimensional variant.
 Link the `dist/qhull2d.js` file and use as follows.
 
